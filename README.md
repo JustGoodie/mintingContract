@@ -1,13 +1,1 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This project shows how to mint NFT. What is minting? Minting an NFT involves creating a unique digital asset, uploading it to an NFT marketplace, setting its properties, and confirming the minting process on the chosen blockchain, which establishes ownership and provenance.
